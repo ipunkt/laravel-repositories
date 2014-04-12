@@ -61,6 +61,8 @@ abstract class EloquentRepository implements RepositoryInterface {
 	public function with(array $with)
 	{
 		$this->with = array_merge($this->with, $with);
+		
+		return $this;
 	}
 
 	/**
