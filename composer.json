@@ -1,6 +1,6 @@
 {
 	"name": "ipunkt/laravel-repositories",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "library",
 	"description": "Base repository implementation for laravel 4.x",
 	"keywords": ["laravel", "repository", "repository pattern", "eloquent", "php"],
