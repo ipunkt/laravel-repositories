@@ -1,4 +1,4 @@
-# Generic repository implementation for Laravel 4.x
+# Generic repository implementation for Laravel
 [![Latest Stable Version](https://poser.pugx.org/ipunkt/laravel-repositories/v/stable.svg)](https://packagist.org/packages/ipunkt/laravel-repositories) [![Latest Unstable Version](https://poser.pugx.org/ipunkt/laravel-repositories/v/unstable.svg)](https://packagist.org/packages/ipunkt/laravel-repositories) [![License](https://poser.pugx.org/ipunkt/laravel-repositories/license.svg)](https://packagist.org/packages/ipunkt/laravel-repositories) [![Total Downloads](https://poser.pugx.org/ipunkt/laravel-repositories/downloads.svg)](https://packagist.org/packages/ipunkt/laravel-repositories)
 
 ## Installation
@@ -6,7 +6,7 @@
 Add to your composer.json following lines
 
 	"require": {
-		"ipunkt/laravel-repositories": "~1.0"
+		"ipunkt/laravel-repositories": "~2.0"
 	}
 
 
